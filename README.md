@@ -1,4 +1,4 @@
-https://my-json-server.typicode.com/sreekanth053/tarr-trim-api
+https://my-json-server.typicode.com/sreekanth053/tarr-trim
 
 tann-trim-api
 
